@@ -1,0 +1,322 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1726476017743825, "dur":6129, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726476017749960, "dur":76, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726476017750077, "dur":867, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726476017751125, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1726476017752183, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726476017752369, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726476017750962, "dur":3146, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726476017754109, "dur":118139, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726476017872251, "dur":491, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726476017872793, "dur":251, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726476017873581, "dur":2326, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1726476017750643, "dur":3486, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726476017754142, "dur":3175, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726476017760795, "dur":796, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1726476017761593, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726476017761752, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player5062cb34-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1726476017761592, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726476017762492, "dur":107118, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726476017871573, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726476017871572, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1726476017871659, "dur":469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1726476017752425, "dur":2103, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726476017754528, "dur":2792, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726476017774720, "dur":1188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1726476017775918, "dur":8492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726476017784525, "dur":7547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726476017792101, "dur":15477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726476017807621, "dur":64659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726476017751018, "dur":3180, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726476017754211, "dur":524, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726476017754736, "dur":2595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726476017758170, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1726476017761001, "dur":4030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726476017765063, "dur":8511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726476017773631, "dur":7872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726476017781534, "dur":7870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726476017789456, "dur":9447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726476017798969, "dur":73315, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726476017751039, "dur":3247, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726476017754299, "dur":616, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726476017754915, "dur":2451, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726476017757366, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1726476017768307, "dur":4189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1726476017772553, "dur":8715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726476017781323, "dur":6794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726476017788143, "dur":8660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726476017796871, "dur":4844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1726476017801763, "dur":70460, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726476017751991, "dur":2361, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726476017754352, "dur":3124, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726476017771534, "dur":9665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726476017781277, "dur":6622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726476017787929, "dur":8822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726476017796834, "dur":2389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1726476017799265, "dur":73083, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726476017750830, "dur":3321, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726476017754153, "dur":718, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726476017754871, "dur":2469, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726476017758732, "dur":3290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1726476017762172, "dur":4051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726476017766258, "dur":9214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726476017775500, "dur":8532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726476017784057, "dur":7337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726476017791420, "dur":18880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726476017810319, "dur":61993, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726476017750925, "dur":3237, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726476017754165, "dur":707, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726476017754872, "dur":2489, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726476017758904, "dur":4852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1726476017763803, "dur":6511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726476017770361, "dur":8955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726476017779380, "dur":8002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726476017787433, "dur":7284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726476017794787, "dur":2112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1726476017796929, "dur":5022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1726476017801991, "dur":70392, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726476017750977, "dur":3198, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726476017754179, "dur":622, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726476017754801, "dur":2589, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726476017763497, "dur":2492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1726476017766014, "dur":9088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726476017775167, "dur":8457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.NetStats.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726476017783694, "dur":7549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726476017791299, "dur":15121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726476017806458, "dur":65859, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726476017751156, "dur":3143, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726476017754302, "dur":304, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726476017754606, "dur":2787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726476017757397, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1726476017762144, "dur":2358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1726476017764556, "dur":8152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726476017772769, "dur":8435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726476017781255, "dur":7362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726476017788669, "dur":9380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726476017798106, "dur":13390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1726476017811521, "dur":60706, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726476017751185, "dur":3121, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726476017754306, "dur":3146, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726476017757506, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":10, "ts":1726476017757456, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY.exe" }}
+,{ "pid":12345, "tid":10, "ts":1726476017757879, "dur":1788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY.exe" }}
+,{ "pid":12345, "tid":10, "ts":1726476017760988, "dur":4091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726476017765152, "dur":8388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726476017773570, "dur":8980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Profiling.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726476017782576, "dur":7632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726476017790260, "dur":12679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726476017802967, "dur":69326, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726476017752593, "dur":1955, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726476017754548, "dur":2786, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726476017757335, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1726476017759694, "dur":3017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1726476017762730, "dur":4107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726476017766861, "dur":9967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726476017776896, "dur":8224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726476017785148, "dur":7182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726476017792391, "dur":16725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726476017809154, "dur":63146, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726476017751421, "dur":2908, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726476017754329, "dur":3136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726476017769150, "dur":10158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726476017779363, "dur":7572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726476017786987, "dur":7106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726476017794180, "dur":42900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726476017837100, "dur":35131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1726476017751390, "dur":2933, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1726476017754323, "dur":3001, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1726476017757342, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1726476017757325, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1726476017758765, "dur":2805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1726476017762174, "dur":3826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726476017766027, "dur":8538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726476017774595, "dur":8989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726476017783635, "dur":7452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726476017791128, "dur":14210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1726476017805381, "dur":66885, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1726476017751279, "dur":3032, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1726476017754311, "dur":3191, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1726476017774042, "dur":8909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1726476017782978, "dur":7692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1726476017790739, "dur":14096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1726476017804853, "dur":67527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1726476017751789, "dur":2553, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1726476017754343, "dur":3046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1726476017765608, "dur":1877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1726476017767581, "dur":9567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726476017777180, "dur":8641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726476017785849, "dur":6893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726476017792773, "dur":17058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1726476017809858, "dur":62442, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1726476017751298, "dur":3019, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1726476017754317, "dur":3176, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1726476017772525, "dur":9139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726476017781720, "dur":7603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726476017789355, "dur":9529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1726476017798956, "dur":3641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":16, "ts":1726476017802649, "dur":69646, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1726476017751761, "dur":2576, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1726476017754338, "dur":3064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1726476017767246, "dur":3676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":17, "ts":1726476017770973, "dur":8451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.Adapters.Ngo1.dll" }}
+,{ "pid":12345, "tid":17, "ts":1726476017779510, "dur":6935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1726476017786498, "dur":6941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1726476017793466, "dur":17526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1726476017811047, "dur":61185, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1726476017751535, "dur":2796, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1726476017754332, "dur":2990, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1726476017757612, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017757720, "dur":149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017757870, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Networking.Transport.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017757973, "dur":164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017758138, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Netcode.Components.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017758242, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Multiplayer.Tools.NetStats.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017758305, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017758472, "dur":154, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Netcode.Runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017758627, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Multiplayer.Tools.MetricTestData.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017758679, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017758929, "dur":143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017759073, "dur":233, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017759355, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017759501, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017759686, "dur":264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\morga\\OneDrive\\Skrivbord\\Mappen_M\\UnitySchool\\Networking5CY\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017757323, "dur":2909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":18, "ts":1726476017760232, "dur":535, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1726476017763036, "dur":2680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017765726, "dur":8561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017774345, "dur":8912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Netcode.Runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017783329, "dur":7562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017790919, "dur":13823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1726476017804764, "dur":67500, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1726476017750763, "dur":3382, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1726476017754148, "dur":565, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1726476017754713, "dur":2624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1726476017758898, "dur":3702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1726476017762658, "dur":6247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":19, "ts":1726476017768957, "dur":8849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.Adapters.dll" }}
+,{ "pid":12345, "tid":19, "ts":1726476017777862, "dur":8264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1726476017786155, "dur":7059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1726476017793262, "dur":17052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1726476017810333, "dur":61929, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1726476017751830, "dur":2517, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1726476017754347, "dur":3162, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1726476017773093, "dur":9197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":20, "ts":1726476017782332, "dur":7219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1726476017789579, "dur":13373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1726476017803028, "dur":69192, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1726476017752012, "dur":2389, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1726476017754401, "dur":2945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1726476017757354, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":21, "ts":1726476017757347, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":21, "ts":1726476017760227, "dur":3799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":21, "ts":1726476017764071, "dur":7987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":21, "ts":1726476017772125, "dur":7886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":21, "ts":1726476017780045, "dur":7489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1726476017787568, "dur":8093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1726476017795687, "dur":2455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":21, "ts":1726476017798328, "dur":4251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":21, "ts":1726476017802600, "dur":69618, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1726476017751961, "dur":2388, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1726476017754349, "dur":3021, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1726476017759444, "dur":2918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":22, "ts":1726476017762385, "dur":5540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":22, "ts":1726476017767983, "dur":8921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":22, "ts":1726476017776936, "dur":8541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":22, "ts":1726476017785555, "dur":7113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1726476017792717, "dur":17133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1726476017809892, "dur":62377, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1726476017752051, "dur":2354, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1726476017754406, "dur":2959, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1726476017757365, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":23, "ts":1726476017760183, "dur":2951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":23, "ts":1726476017763158, "dur":7076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":23, "ts":1726476017770279, "dur":8205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.Initialization.dll" }}
+,{ "pid":12345, "tid":23, "ts":1726476017778532, "dur":7709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1726476017786312, "dur":7305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1726476017793691, "dur":16655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1726476017810363, "dur":61891, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1726476017752173, "dur":2320, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1726476017754494, "dur":2965, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1726476017757462, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":24, "ts":1726476017774774, "dur":2688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":24, "ts":1726476017777488, "dur":8299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1726476017785823, "dur":7351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1726476017793212, "dur":16632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1726476017809878, "dur":62367, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1726476017752268, "dur":2239, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1726476017754508, "dur":2963, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1726476017770565, "dur":9175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":25, "ts":1726476017779770, "dur":7582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1726476017787380, "dur":7268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1726476017794699, "dur":2175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":25, "ts":1726476017796932, "dur":4994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/resources.assets" }}
+,{ "pid":12345, "tid":25, "ts":1726476017801950, "dur":70284, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1726476017752358, "dur":2155, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1726476017754513, "dur":2850, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1726476017761013, "dur":3015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":26, "ts":1726476017764066, "dur":6214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":26, "ts":1726476017770341, "dur":8962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll" }}
+,{ "pid":12345, "tid":26, "ts":1726476017779371, "dur":7547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1726476017786949, "dur":7243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1726476017794218, "dur":24128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":26, "ts":1726476017818366, "dur":53872, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1726476017752392, "dur":2128, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1726476017754520, "dur":2852, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1726476017757372, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":27, "ts":1726476017768023, "dur":4204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":27, "ts":1726476017772507, "dur":8388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll" }}
+,{ "pid":12345, "tid":27, "ts":1726476017780947, "dur":6979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1726476017787955, "dur":9098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1726476017797084, "dur":5327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/level0" }}
+,{ "pid":12345, "tid":27, "ts":1726476017802452, "dur":69804, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1726476017750883, "dur":3273, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1726476017754159, "dur":503, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1726476017754662, "dur":2724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1726476017757422, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":28, "ts":1726476017757389, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":28, "ts":1726476017764722, "dur":2212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":28, "ts":1726476017766961, "dur":8909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.MetricEvents.dll" }}
+,{ "pid":12345, "tid":28, "ts":1726476017775922, "dur":8514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Netcode.Components.dll" }}
+,{ "pid":12345, "tid":28, "ts":1726476017784500, "dur":7405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1726476017791998, "dur":15611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1726476017807651, "dur":64636, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1726476017752456, "dur":2077, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1726476017754534, "dur":2883, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1726476017757430, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":29, "ts":1726476017757418, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":29, "ts":1726476017766745, "dur":6945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":29, "ts":1726476017773836, "dur":8834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.MetricTestData.dll" }}
+,{ "pid":12345, "tid":29, "ts":1726476017782709, "dur":8119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1726476017790856, "dur":13937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1726476017804814, "dur":67433, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1726476017752549, "dur":1994, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1726476017754544, "dur":2834, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1726476017757382, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":30, "ts":1726476017763178, "dur":2502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":30, "ts":1726476017765718, "dur":7844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":30, "ts":1726476017773588, "dur":8701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.Common.dll" }}
+,{ "pid":12345, "tid":30, "ts":1726476017782337, "dur":7196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1726476017789562, "dur":12194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1726476017801798, "dur":70427, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1726476017750942, "dur":3226, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1726476017754172, "dur":495, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1726476017754667, "dur":2659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1726476017757349, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":31, "ts":1726476017757329, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":31, "ts":1726476017760217, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":31, "ts":1726476017762674, "dur":5130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":31, "ts":1726476017767860, "dur":8859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.MetricTypes.dll" }}
+,{ "pid":12345, "tid":31, "ts":1726476017776747, "dur":8309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.NetworkSolutionInterface.dll" }}
+,{ "pid":12345, "tid":31, "ts":1726476017785090, "dur":7413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1726476017792556, "dur":17282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1726476017809868, "dur":62374, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1726476017752474, "dur":2064, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1726476017754538, "dur":2859, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1726476017764600, "dur":2489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":32, "ts":1726476017767114, "dur":9268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Multiplayer.Tools.NetStatsReporting.dll" }}
+,{ "pid":12345, "tid":32, "ts":1726476017776460, "dur":7959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/Unity.Networking.Transport.dll" }}
+,{ "pid":12345, "tid":32, "ts":1726476017784465, "dur":7357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1726476017791883, "dur":15705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/morga/OneDrive/Skrivbord/Build desktop/Networking5CY_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1726476017807613, "dur":64663, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726476017878122, "dur":644, "ph":"X", "name": "ProfilerWriteOutput" }
+,
